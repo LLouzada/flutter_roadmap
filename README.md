@@ -49,7 +49,7 @@ flowchart LR
             fund --> fund1(🔵 Introdução à Computação):::leaf
             fund --> fund2(🔵 Lógica e Algoritmos):::leaf
             fund --> fund3(🔵 Estrutura de Dados):::leaf
-            fund --> poo(Orientação a Objetos):::subtopic
+            fund --> poo(🔵 Orientação a Objetos):::subtopic
                 poo --> poo1(🟢 Princípios SOLID, KISS, DRY):::leaf
                 poo --> poo2(🟢 Clean Code):::leaf
                 poo --> dp(🟢 Design Patterns - Avançado):::subtopic
